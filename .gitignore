@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 *env
 *.jpg
 *.idea
-=======
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -107,4 +106,3 @@ venv.bak/
 
 # mypy
 .mypy_cache/
->>>>>>> 26d8d761398aeba3bab0ec4ffa8ae56f090fac50
